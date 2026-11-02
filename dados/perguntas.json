@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 1,
+    "Enunciado": "Por que a banana apresenta radioatividade natural?",
+    "AlternativaA": "Porque contém potássio, incluindo o isótopo potássio-40.",
+    "AlternativaB": "Porque produz raios X continuamente.",
+    "AlternativaC": "Porque recebe radiação de celulares.",
+    "AlternativaD": "Porque contém urânio em grandes quantidades.",
+    "RespostaCorreta": "A",
+    "ExplicacaoCientifica": "A banana contém potássio, e uma pequena proporção desse elemento corresponde ao isótopo radioativo potássio-40.",
+    "Categoria": "RadioatividadeNatural",
+    "NivelDificuldade": "Facil"
+  },
+  {
+    "Id": 2,
+    "Enunciado": "O que caracteriza a radiação ionizante?",
+    "AlternativaA": "Ela é sempre visível a olho nu.",
+    "AlternativaB": "Ela tem energia suficiente para remover elétrons de átomos e moléculas.",
+    "AlternativaC": "Ela é emitida apenas por aparelhos eletrônicos domésticos.",
+    "AlternativaD": "Ela não interage com a matéria.",
+    "RespostaCorreta": "B",
+    "ExplicacaoCientifica": "A radiação ionizante, como os raios X e os raios gama, possui energia suficiente para ionizar átomos e moléculas, o que pode causar danos às células.",
+    "Categoria": "RadiacaoIonizante",
+    "NivelDificuldade": "Medio"
+  },
+  {
+    "Id": 3,
+    "Enunciado": "Que tipo de radiação os celulares utilizam para se comunicar com as antenas?",
+    "AlternativaA": "Raios gama.",
+    "AlternativaB": "Ondas de radiofrequência.",
+    "AlternativaC": "Raios X.",
+    "AlternativaD": "Partículas alfa.",
+    "RespostaCorreta": "B",
+    "ExplicacaoCientifica": "Os celulares utilizam ondas de radiofrequência, um tipo de radiação não ionizante, pois sua energia é insuficiente para ionizar átomos.",
+    "Categoria": "RadiacaoNaoIonizante",
+    "NivelDificuldade": "Facil"
+  },
+  {
+    "Id": 4,
+    "Enunciado": "Qual radioisótopo é o mais utilizado em exames de cintilografia na medicina nuclear?",
+    "AlternativaA": "Urânio-238.",
+    "AlternativaB": "Carbono-14.",
+    "AlternativaC": "Tecnécio-99m.",
+    "AlternativaD": "Plutônio-239.",
+    "RespostaCorreta": "C",
+    "ExplicacaoCientifica": "O tecnécio-99m emite radiação gama detectável por gama-câmaras e tem meia-vida de cerca de 6 horas, o que limita o tempo de exposição do paciente.",
+    "Categoria": "MedicinaNuclear",
+    "NivelDificuldade": "Dificil"
+  }
+]
